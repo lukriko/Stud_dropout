@@ -1,7 +1,9 @@
 # Stud_dropout
-
 This dataset is about predicting and exploring the student outcome based on several features like economic, marital, academic indicators and more.
-Reference: https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis/data
+## app developed by me using streamlit for student outcome prediction:
+### https://stud-outcome.streamlit.app/
+## Reference:
+### https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis/data
 
 
 The goal of the exploration is to find out the key indicators having the most influence on the outcome, as well as splitting data and analyzing for each group being Graduate and Dropout.
