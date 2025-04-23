@@ -33,6 +33,7 @@ The goal of the exploration is to find out the key indicators having the most in
   o	        -- bottom five 19,23,13,22,31
 
 
+
   ## Do scholarship holders have a higher graduation rate?
     o	Yes. As the scholarship holders have higher graduation rate up to 76% while ,no scholarship students have graduation rate of 41.5%.
     
@@ -45,3 +46,12 @@ The goal of the exploration is to find out the key indicators having the most in
     o	Locals with higher parent qualification have higher graduation,enrollment and dropout rates,
       however international students with lower parental qualification have higher avg grades for both semesters for enrolled and graduates, 
       and lower avg for dropouts compared to locals.
+
+
+## predictions
+![feature_importance](https://github.com/user-attachments/assets/8ab74c3c-1873-40eb-a0bd-1d018555f879)
+![ROC](https://github.com/user-attachments/assets/a9d703fc-51d3-4270-9252-a882fee9d69d)
+
+The best  model for predictions is randome forest with highest AUC.
+
+# Dive in folder but before read the folder_description file
