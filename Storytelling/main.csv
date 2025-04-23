@@ -1,0 +1,12 @@
+nternational,,,
+Output,avg_grade_1st_sem,avg_grade_2nd_sem,student_count
+Dropout,6.1,5.32,16
+Enrolled,13.13,12.13,8
+Graduate,13.19,13.15,28
+,,,
+,,,
+Local,,,
+Output,avg_grade_1st_sem,avg_grade_2nd_sem,student_count
+Dropout,9.52,7.83,73
+Enrolled,10.73,11.05,51
+Graduate,12.22,12.05,95
