@@ -54,4 +54,4 @@ The goal of the exploration is to find out the key indicators having the most in
 
 The best  model for predictions is randome forest with highest AUC.
 
-# Dive in folder but before read the folder_description file
+## Dive in analysis and predictions but before read the folder_description file.
